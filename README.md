@@ -1,7 +1,7 @@
 ****SMS Spam Detection****
 
 *Overview
-
+******************************************************************
 This project focuses on building an SMS spam detection model using machine learning techniques. The model classifies text messages as either spam or ham (not spam) based on their content. The project involves data preprocessing, feature extraction, and training a classification model to identify spam messages effectively.
 
 Dataset
